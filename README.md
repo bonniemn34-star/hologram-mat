@@ -1,2 +1,3 @@
 # hologram-mat
-inspired by tony stark hologaphic little mat thingy. this is not my original idea this was thought of by concept bytes but with my own little twist. 
+we all know iron man, we all know his ingenuity and intelligence, one thing that caught my eye in the movie was his holographic mat, the one he used to design and control everything.
+this will be a 
